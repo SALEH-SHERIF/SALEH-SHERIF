@@ -1,9 +1,12 @@
 
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+
+<img  width="250" align="right" src="https://cdn.thisiswhyimbroke.com/buying-guides-thumb/441/python-programmer-eat-sleep-code-mug_400x.jpg" width="28" alt="Python Programmer Mug">
+
 
 <h3 align="center">
   Welcome to SALEH SHERIF profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="Animated Image">
+
 </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
