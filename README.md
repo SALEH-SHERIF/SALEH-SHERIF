@@ -16,7 +16,7 @@
 
 I'm a **Backend Developer** and a **Computer Science graduate** at Ain Shams University, Class of 2025 . 💻🚀  
 
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.  
+- 👨‍💻 As a CS graduate , I'm constantly learning and exploring new technologies to improve my skills.  
 - 🔹 Skilled in **C#, LINQ, Entity Framework (EF), MVC, Web API**, and **SQL**.  
 - 🚀 Currently exploring **Clean Architecture, Microservices, Blazor**, and other modern backend technologies.  
 - 💼 Practical experience working with **iSchool, Almentor, and Udacity**, teaching various topics related to programming and development.    
