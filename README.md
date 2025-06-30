@@ -21,7 +21,7 @@ I'm a **Backend Developer** and a **Computer Science graduate** at Ain Shams Uni
 - 🚀 Currently exploring **Clean Architecture, Microservices, Blazor**, and other modern backend technologies.  
 - 💼 Practical experience working with **iSchool, Almentor, and Udacity**, teaching various topics related to programming and development.    
 - 🧩 Passionate about **problem-solving and tackling programming challenges**.  
-- 📄 Check out my **CV** [here](https://drive.google.com/file/d/1mprgvU3cvK7YQ1d1vr_pcm5bvSjWGc2Z/view?usp=drive_link).  
+- 📄 Check out my **CV** [here](https://drive.google.com/drive/folders/1cs3AnaoGhsL61e8Jfe6xaFEQ1-ZfXEdv?usp=sharing).  
 
 
 
